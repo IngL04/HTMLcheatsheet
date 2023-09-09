@@ -1,0 +1,35 @@
+body{
+    background-color: gainsboro;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: rebeccapurple;
+}
+
+table{
+    border: 2px solid azure;
+    margin: 0 auto;
+    width: 600px;
+}
+
+td{
+    border: 1px solid azure;
+    padding: 2px 5px;
+}
+
+thead{
+    background-color: azure;
+    font-weight: bold;
+    text-align: center;
+}
+
+#Tags{
+    background-color: white;
+    font-style: italic;
+}
